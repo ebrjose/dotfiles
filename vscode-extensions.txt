@@ -1,0 +1,30 @@
+Extensions Added:
+  activitusbar v0.0.34
+  atlantic-night v1.19.0
+  auto-rename-tag v0.1.3
+  bracket-pair-colorizer v1.0.61
+  code-settings-sync v3.4.3
+  dotenv v1.0.1
+  es7-react-js-snippets v1.9.3
+  html-snippets v0.2.1
+  jquerysnippets v0.0.1
+  material-icon-theme v4.1.0
+  material-theme v3.7.1
+  monokai-one-dark-vivid v0.13.0
+  one-monokai v0.4.6
+  oozedarktheme v0.9.0
+  remote-wsl v0.44.2
+  shades-of-purple v6.11.0
+  slack-theme v1.9.12
+  smarty v0.3.0
+  synthax v0.1.11
+  theme-dracula v2.22.1
+  theme-happy-hipster v2.8.5
+  theme-panda v1.3.0
+  vscode-apache v1.2.0
+  vscode-docker v1.2.1
+  vscode-theme-onedark v2.2.1
+  vue-snippets v0.1.11
+  vuetify-vscode v0.2.0
+--------------------
+Done.
